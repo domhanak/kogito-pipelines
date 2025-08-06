@@ -26,4 +26,6 @@ dependencies:
 
   - project: kubesmarts/kie-tools
     dependencies:
-      - project: kubesmarts/osl-images
+      - project: kiegroup/drools
+      - project: kiegroup/kogito-runtimes
+      - project: kiegroup/kogito-app
